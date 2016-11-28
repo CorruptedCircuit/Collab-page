@@ -1,0 +1,37 @@
+#One {
+	color: #0000CC;
+	border: 2px solid black;
+	padding: 5px;
+	background-color: #ffffff;
+	float: right;
+	width: 31.5%;
+
+}
+#Two {
+	color: #0000CC;
+	border: 2px solid black;
+	padding: 5px;
+	background-color: #ffffff;
+	float: right;
+	width: 31.5%;
+
+}
+#Three {
+	color: #0000CC;
+	border: 2px solid black;
+	padding: 5px;
+	background-color: #ffffff;
+	float: right;
+	width: 31.5%;
+
+}
+h1 {
+	background-color: white;
+	font-color: #000000; 
+	text-align: center; 
+	padding-bottom: 5px;
+}
+img {
+	 width: 700px;
+	 height: 300px;
+}
