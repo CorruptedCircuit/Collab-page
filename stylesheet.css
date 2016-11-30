@@ -1,0 +1,44 @@
+#One {
+	color: #0000CC;
+	border: 2px solid black;
+	padding: 5px;
+	background-color: #ffffff;
+	float: right;
+	width: 33.3%;
+
+}
+#Two {
+	color: #0000CC;
+	border: 2px solid black;
+	padding: 5px;
+	background-color: #ffffff;
+	float: right;
+	width: 33.3%;
+
+}
+#Three {
+	color: #0000CC;
+	border: 2px solid black;
+	padding: 5px;
+	background-color: #ffffff;
+	float: right;
+	width: 33.3%;
+
+}
+.LUA {
+	 width: 1980px;
+	 height: 500px;
+
+}
+.marquee {
+	 background-color: purple;
+	 font-size: 20px;
+	 color: #FFFFFF;
+	 direction: left;
+	 width: 100%;
+	 height: 20px;
+}
+html {
+	background-image: url(https://scontent.xx.fbcdn.net/v/t1.0-0/s480x480/15203320_561018480757408_4400934789404504998_n.jpg?oh=3d214207f5a5a76faf1a8500aafffba0&oe=58BFC505);
+	background-size: 100%;
+}
